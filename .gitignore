@@ -1,0 +1,7 @@
+node_modules/
+.idea/
+logs/
+.DS_Store
+.vscode
+!.autod.conf.js
+
